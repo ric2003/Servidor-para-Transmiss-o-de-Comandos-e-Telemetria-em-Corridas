@@ -21,7 +21,7 @@ O objetivo deste teste é aprimorar um servidor responsável pela transmissão d
     - O servidor apaga todas as FIFOs criadas após a execução.
 
 ### Testes Automatizados:
-- Foram implementados testes automatizados para verificar o comportamento do servidor em diferentes cenários, conforme descrito nos testes 1 a 9 do enunciado.
+- Foram implementados testes automatizados para verificar o comportamento do servidor em diferentes cenários, conforme descrito nos testes 1 a 7
 
 ### Compilação e Execução:
 - Para compilar o servidor, execute o comando `gcc main.c -o main` e `gcc client.c -o client `
