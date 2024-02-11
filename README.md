@@ -9,7 +9,6 @@ O objetivo deste teste é aprimorar um servidor responsável pela transmissão d
     - Threads suspensas retomam a execução após a receção da mensagem.
 
 - **Informação de disponibilidade de acesso à box:**
-    - Implementado controle para que apenas um carro por equipa possa aceder à box simultaneamente.
     - Suspensão do envio da mensagem "BOX" se as condições especificadas não forem cumpridas.
 
 - **Controlo de combustível:**
